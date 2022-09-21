@@ -8,9 +8,7 @@ import useGoogleAddress from '../hooks/useGoogleAddress';
 const Success = () => {
   const { state } = useContext(AppContext);
   const { buyer } = state;
-  const location = useGoogleAddress(buyer[0].address);
-  console.log('<<<<<<<<', buyer[0].address);
-
+  
   return (
     <div className="Success">
       {buyer.map((item, key) => (
