@@ -1609,11 +1609,6 @@
   "resolved" "https://registry.npmjs.org/@react-google-maps/marker-clusterer/-/marker-clusterer-2.11.8.tgz"
   "version" "2.11.8"
 
-"@react-leaflet/core@^2.0.1":
-  "integrity" "sha512-XGmx01DovDt0IWsW4tqeuSYifpY19aUn9NYCqTBI3KNtjbCjj0pfiWa7krNsnJ6l2oQbv4Nt0/BabLbIvT4ocA=="
-  "resolved" "https://registry.npmjs.org/@react-leaflet/core/-/core-2.0.1.tgz"
-  "version" "2.0.1"
-
 "@tootallnate/once@1":
   "integrity" "sha512-RbzJvlNzmRq5c3O09UipeuXno4tA1FE6ikOjxZK0tuxVv3412l64l5t1W5pj4+rJq9vpkm/kwiR07aZXnsKPxw=="
   "resolved" "https://registry.npmjs.org/@tootallnate/once/-/once-1.1.2.tgz"
@@ -5541,13 +5536,6 @@
   "integrity" "sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ=="
   "resolved" "https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz"
   "version" "16.13.1"
-
-"react-leaflet@^4.0.2":
-  "integrity" "sha512-pDyIf50Ek/LZ0p4Qxw2D9LMOx+LytQs2R+MY3mhTUPGzubrpP4QAgbCv2qc0L9y0qVRgx7dHavWuPFkc/WCJCw=="
-  "resolved" "https://registry.npmjs.org/react-leaflet/-/react-leaflet-4.0.2.tgz"
-  "version" "4.0.2"
-  dependencies:
-    "@react-leaflet/core" "^2.0.1"
 
 "react-paypal-button-v2@^2.6.3":
   "integrity" "sha512-Kt0QxWjZn+RnIbbFPHDfH8iHwMqe/jG5+SkKElEJ0Fg+CM9yeK37y8zQW97l5C9P9D1yPacW5YNAnuxmI9uS9w=="

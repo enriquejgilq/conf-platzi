@@ -2,8 +2,6 @@ import React, { useContext } from 'react';
 import AppContext from '../context/AppContext';
 import Product from './Product';
 import '../styles/components/Products.css';
-import MapLeaflet from './MapLeaflet';
-
 const Products = () => {
   const { state, addToCart } = useContext(AppContext);
   const { products } = state;

@@ -2,7 +2,6 @@ import React, { useContext } from 'react';
 import AppContext from '../context/AppContext';
 import '../styles/components/Success.css';
 import Map from '../components/Map';
-import MapLeaflet from '../components/MapLeaflet';
 import useGoogleAddress from '../hooks/useGoogleAddress';
 
 const Success = () => {

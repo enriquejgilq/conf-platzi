@@ -46,7 +46,6 @@
     "less-loader": "^11.0.0",
     "mini-css-extract-plugin": "^2.6.1",
     "node-sass": "^7.0.1",
-    "react-leaflet": "^4.0.2",
     "sass-loader": "^13.0.2",
     "stylus": "^0.59.0",
     "stylus-loader": "^7.0.0",
